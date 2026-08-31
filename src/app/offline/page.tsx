@@ -1,0 +1,1 @@
+export default function OfflinePage() { return <main className="customer-shell"><section className="customer-card"><p className="customer-eyebrow">Sin conexión</p><h1 className="customer-title">No pudimos conectarnos.</h1><p className="customer-copy">Revisa tu conexión e inténtalo nuevamente. Tus datos y Rewards no se almacenan sin conexión.</p></section></main>; }
